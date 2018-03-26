@@ -21,6 +21,27 @@ def read_image(image):
     return image
 
 
+def read_image2(image_):
+    """
+    Reads the image from the disk
+    :param image: image path
+    :return: returns image
+    """
+    image = ndimage.imread(image_).astype(np.float)
+    print(image.shape)
+    if image.shape[-1] == 3:
+        image = ((image).astype(float)- 255 / 2) / 255
+        image = misc.imresize(image, (224, 224))
+    else:
+        # image = ndimage.imread(image_, flatten=True).astype(np.float)
+        # image = (misc.imresize(image, (224, 224)).astype(float)
+        #          - 255 / 2) / 255
+        # image = image.reshape((224, 224, -1))
+        # image = np.concatenate((image, image, image), axis=2)
+        return read_image(image_)
+    return image
+
+
 with open(".shape_dict", "rb") as f:
     shape_dict = pickle.load(f)
 
