@@ -51,7 +51,7 @@ with open(".shape_dict", "rb") as f:
 
 
 with tf.Session() as sess:
-    image = read_image(path_to_image)
+    image = read_image2(path_to_image)
     image = image.reshape((1, 224, 224, 3))
     input16 = tf.placeholder(tf.float32, [None, 224, 224, 3])
     vgg = vgg16.Vgg16("./vgg16/vgg16.npy")
