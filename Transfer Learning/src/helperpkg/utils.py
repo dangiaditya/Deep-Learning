@@ -52,7 +52,7 @@ def get_features(classes):
             files = os.listdir(class_path)
             for ii, file in enumerate(files, 1):
 
-                img = read_image(os.path.join(class_path, file))
+                img = read_image2(os.path.join(class_path, file))
                 batch.append(img.reshape((1, 224, 224, 3)))
                 labels.append(each)
 
