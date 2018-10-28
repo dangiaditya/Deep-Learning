@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34e0e355-672c-43af-9c64-1658717bddef" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2955">
+              <caret line="202" column="35" selection-start-line="202" selection-start-column="35" selection-end-line="202" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cgan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cgan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2970">
+              <caret line="203" column="100" selection-start-line="203" selection-start-column="100" selection-end-line="203" selection-end-column="100" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4260">
+              <caret line="289" column="64" selection-start-line="285" selection-start-column="20" selection-end-line="289" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+                <marker date="1539933076767" expanded="true" signature="9031:9076" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dc2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dc2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="235" column="57" lean-forward="true" selection-start-line="235" selection-start-column="57" selection-end-line="235" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.layers</find>
+      <find>get_noise</find>
+      <find>gf_dim</find>
+      <find>same</find>
+      <find>disc_conv1</find>
+      <find>disc_conv</find>
+      <find>save_sample</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cgan.py" />
+        <option value="$PROJECT_DIR$/src/dcgan.py" />
+        <option value="$PROJECT_DIR$/src/dc1.py" />
+        <option value="$PROJECT_DIR$/dccheck.py" />
+        <option value="$PROJECT_DIR$/src/gan.py" />
+        <option value="$PROJECT_DIR$/src/dc.py" />
+        <option value="$PROJECT_DIR$/src/dc2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Gans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Gans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Gans" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.dc2">
+    <configuration name="cgan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/cgan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/dc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dc2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/dc2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="gan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Gans" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/gan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.gan" />
+      <item itemvalue="Python.cgan" />
+      <item itemvalue="Python.dc" />
+      <item itemvalue="Python.dc2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dc2" />
+        <item itemvalue="Python.dc" />
+        <item itemvalue="Python.gan" />
+        <item itemvalue="Python.cgan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34e0e355-672c-43af-9c64-1658717bddef" name="Default" comment="" />
+      <created>1539631306978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539631306978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24980783" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15615615" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25075075" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980783" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="202" column="35" selection-start-line="202" selection-start-column="35" selection-end-line="202" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cgan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3045">
+          <caret line="203" column="100" selection-start-line="203" selection-start-column="100" selection-end-line="203" selection-end-column="100" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4335">
+          <caret line="289" column="64" selection-start-line="285" selection-start-column="20" selection-end-line="289" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1539933076767" expanded="true" signature="9031:9076" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dc2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="122" column="98" lean-forward="true" selection-start-line="122" selection-start-column="98" selection-end-line="122" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cgan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="138" column="33" selection-start-line="138" selection-start-column="33" selection-end-line="138" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcgan.py" />
+    <entry file="file://$PROJECT_DIR$/src/dcgan.py" />
+    <entry file="file://$PROJECT_DIR$/src/dc1.py" />
+    <entry file="file://$PROJECT_DIR$/../numpy_cnn/venv/lib/python3.5/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="1021" selection-start-line="1021" selection-end-line="1021" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../numpy_cnn/venv/lib/python3.5/site-packages/tensorflow/python/ops/variable_scope.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="663" selection-start-line="663" selection-end-line="663" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dccheck.py" />
+    <entry file="file://$PROJECT_DIR$/../numpy_cnn/venv/lib/python3.5/site-packages/tensorflow/python/client/session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="974" selection-start-line="974" selection-end-line="974" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cgan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="203" column="100" selection-start-line="203" selection-start-column="100" selection-end-line="203" selection-end-column="100" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2955">
+          <caret line="202" column="35" selection-start-line="202" selection-start-column="35" selection-end-line="202" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4260">
+          <caret line="289" column="64" selection-start-line="285" selection-start-column="20" selection-end-line="289" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1539933076767" expanded="true" signature="9031:9076" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dc2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="235" column="57" lean-forward="true" selection-start-line="235" selection-start-column="57" selection-end-line="235" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
